@@ -13,7 +13,7 @@ public class DemoText
 		int a;
 		int b;
 		int c = a+b;
-
-		System.out.println("sum of::"+c);
 	}
+
+
 }
