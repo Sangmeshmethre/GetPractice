@@ -15,5 +15,8 @@ public class DemoText
 		int c = a+b;
 	}
 
+	public void m4(){
+
+	}
 
 }
