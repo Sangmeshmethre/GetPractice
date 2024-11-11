@@ -8,7 +8,10 @@ public class DemoText
 		System.out.println("m2");
 		System.out.println("update m2");
 	}
-	public void m3(){
+	public int m3(){
 
+		int a;
+		int b;
+		int c = a+b;
 	}
 }
