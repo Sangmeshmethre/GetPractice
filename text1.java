@@ -17,6 +17,9 @@ public class DemoText
 
 	public void m4(){
 
+		int temp = a;
+		a = b; 
+		b = temp;
 	}
 
 }
