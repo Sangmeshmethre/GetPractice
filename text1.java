@@ -17,6 +17,8 @@ public class DemoText
 
 	public void m4(){
 
+		System.out.println("m4 adding");
+
 	}
 
 }
