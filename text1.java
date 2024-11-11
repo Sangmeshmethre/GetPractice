@@ -20,6 +20,9 @@ public class DemoText
 		int temp = a;
 		a = b; 
 		b = temp;
+
+		System.out.println("m4 adding");
+
 	}
 
 }
