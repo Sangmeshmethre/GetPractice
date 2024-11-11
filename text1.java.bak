@@ -6,9 +6,7 @@ public class DemoText
 
 	public void m2(){
 		System.out.println("m2");
-<<<<<<< HEAD
 		System.out.println("Update the m2 Method");
-=======
->>>>>>> 122a9a44429106d6740d7e0d520edf54d9e43c4f
+
 	}
 }
